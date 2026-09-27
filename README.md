@@ -1,16 +1,59 @@
-# video_dloader
+# Video Downloader
 
-A new Flutter project.
+A Flutter-based video downloader application with a clean and simple interface for downloading and managing videos.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Video download workflow
+- Download progress tracking
+- Download state management
+- Downloaded video management
+- Drawer-based navigation
+- Multi-language support
+- Local storage for app preferences
+- Responsive Flutter UI
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home
+![Home](screenshots/video_downloader/01-home.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Download
+![Download](screenshots/video_downloader/02-download.jpg)
+
+### Download State
+![Download State](screenshots/video_downloader/03-download-state.jpg)
+
+### Download Progress
+![Download Progress](screenshots/video_downloader/04-progress.jpg)
+
+### Navigation Drawer
+![Drawer](screenshots/video_downloader/05-drawer.jpg)
+
+### Language Selection
+![Language Selection](screenshots/video_downloader/06-language.jpg)
+
+## Tech Stack
+
+- Flutter
+- Dart
+- Provider
+- Hive
+- Firebase
+- FFmpeg
+- YouTube Explode
+- Device Preview
+
+## Project Structure
+
+```text
+lib/
+├── models/
+├── providers/
+├── screens/
+├── services/
+├── utils/
+└── main.dart
+
+screenshots/
+└── video_downloader/
