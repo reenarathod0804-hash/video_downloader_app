@@ -1,0 +1,2 @@
+C:/Users/utsav/AndroidStudioProjects/video_dloader/android/app/.cxx/RelWithDebInfo/6n2m305n/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/utsav/AndroidStudioProjects/video_dloader/android/app/.cxx/RelWithDebInfo/6n2m305n/arm64-v8a/CMakeFiles/rebuild_cache.dir
